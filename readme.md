@@ -336,7 +336,7 @@ There is some level of Visual Studio integration included with JOOP. That is, th
 	4. Click on Build Events
 	5. In the Pre-build event command line: textbox, type in the following:
 	
-> "\$(ProjectDir)tools\joopc.exe" -m -d -i "$(ProjectDir) " -a
+> "$(ProjectDir)tools\joopc.exe" -m -d -i "$(ProjectDir) " -a
 
 Now whenever your project builds, the *.joop files will be compiled and run. If there's any errors, it will appear in the error list. If you'd rather everything goes into a single file, just use this value instead.
 
