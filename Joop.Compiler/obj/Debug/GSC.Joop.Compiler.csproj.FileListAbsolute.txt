@@ -1,0 +1,9 @@
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\obj\Debug\GSC.Joop.Compiler.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\bin\Debug\GSC.Joop.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\bin\Debug\GSC.Joop.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\bin\Debug\joopc.exe
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\bin\Debug\joopc.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\obj\Debug\joopc.exe
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\obj\Debug\joopc.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\obj\Debug\GSC.Joop.Compiler.Properties.Resources.resources
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\obj\Debug\GSC.Joop.Compiler.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop\bin\Release\GSC.Joop.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop\bin\Release\GSC.Joop.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop\obj\Release\GSC.Joop.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop\obj\Release\GSC.Joop.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop\obj\Release\GSC.Joop.pdb

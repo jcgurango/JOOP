@@ -1,0 +1,7 @@
+class SomeClass
+{
+	function Foo(bar)
+	{
+		this.foo = bar;
+	}
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>--help</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>-f -a -i "C:\Users\jcman\Documents\Visual Studio 2013\Projects\JOOP\GSC.Joop.Compiler\bin\SDK\TryJoop\Test.joop"</StartArguments>
+  </PropertyGroup>
+</Project>
