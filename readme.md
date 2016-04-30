@@ -9,6 +9,7 @@ The name JOOP is an acronym for the phrase "Javascript (with) Object Oriented Pr
 In this document I'll take you through how JOOP works, the semantics which JOOP adds, joopc - the JOOP compiler, and some ways which it can be integrated with Visual Studio and Notepad++.
 
 Note: I know most of these are now impelemented in EcmaScript 6. JOOP was created in 2014.
+Note 2: The documentation you see below is taken directly from the SDK.
 
 JOOP, the Language
 ------------------
