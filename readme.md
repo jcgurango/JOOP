@@ -2,18 +2,20 @@
 
 What is JOOP?
 ------------------
-JOOP (pronounced joop) is a Javascript pre-processor that adds some semantics I wished for in Javascript. It adds classes, inheritance,  and encapsulation in a syntax that makes it look more like Java and C#. There are ways of doing all of these in plain Javascript, and JOOP just makes it easier by automating the processes required to do them. JOOP is meant to be used alongside regular Javascript, and is not particularly conducive for end-user scripting.
+JOOP (pronounced joop) is a Javascript pre-processor that adds some semantics I wished for in Javascript. It adds classes, inheritance, and encapsulation in a syntax that makes it look more like Java and C#. There are ways of doing all of these in plain Javascript, and JOOP just makes it easier by automating the processes required to do them. JOOP is meant to be used alongside regular Javascript, and is not particularly conducive for end-user scripting.
 
 The name JOOP is an acronym for the phrase "Javascript (with) Object Oriented Programming". Some will say that this name is technically incorrect, as Javascript is already an OOP language. To that I say: it's just a name, get over it.
 
 In this document I'll take you through how JOOP works, the semantics which JOOP adds, joopc - the JOOP compiler, and some ways which it can be integrated with Visual Studio and Notepad++.
+
+Note: I know most of these are now impelemented in EcmaScript 6. JOOP was created in 2014.
 
 JOOP, the Language
 ------------------
 The language itself is basically Javascript with some flair. Most of the code you'll be writing is plain old Javascript.
 
 ### Try it Yourself
-The SDK (found [here](http://www.google.com/)) contains a folder called "TryJoop". In this folder you can try any of the code mentioned below. Simple edit the Test.joop file, and then run compile.bat. This will compile it to the file Test.js, which you can inspect or try in a browser. I'd recommend trying these out as you read them.
+The SDK (found [here](https://github.com/jcgurango/JOOP/blob/master/SDK/SDK.zip)) contains a folder called "TryJoop". In this folder you can try any of the code mentioned below. Simple edit the Test.joop file, and then run compile.bat. This will compile it to the file Test.js, which you can inspect or try in a browser. I'd recommend trying these out as you read them.
 
 ### Classes
 JOOP adds classes which are defined similarly to C# and Java. You can take the following example from regular Javascript.
